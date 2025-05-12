@@ -1,9 +1,6 @@
-<!--
-  README for dvoyevoda’s GitHub Profile
-  Clean and visually appealing layout
--->
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b4bc8036-a450-4bc0-8b84-cbbf18fbe64d" alt="cropped wormhole" width="400"/>
+  <img src="https://github.com/user-attachments/assets/b4bc8036-a450-4bc0-8b84-cbbf18fbe64d" alt="Wormhole" width="927"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm <b>Daniel Voyevoda</b></h1>
