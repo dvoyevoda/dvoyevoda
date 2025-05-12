@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 🔬 **Research:** Visual Cryptography & Image Encryption under Dr. Sos Agaian  
-- 🤖 **AI Projects:** TikTok video-prompt engineering (Sora & Kling AI)  
+- 🤖 **AI:** Built MeetMate, an AI-powered meeting summarizer using natural language processing    
 - 🔗 **Blockchain:** Developed a decentralized voting system dApp  
 - 💻 **Languages & Tools:** C++, Python, JavaScript, Swift, Git, Docker
 
