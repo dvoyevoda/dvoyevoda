@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L0DEZoSg6ZO0I/giphy.gif" alt="Neon Geometry Animation" width="300"/>
+  <img src="https://i.imgur.com/OqFZyvz.gif" alt="Wormhole Animation" width="500"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm <b>Daniel Voyevoda</b></h1>
