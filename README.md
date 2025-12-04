@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm <b>Daniel Voyevoda</b></h1>
-<p align="center"><em>Freshman Computer Science student at the College of Staten Island passionate about AI, cryptography, and blockchain.</em></p>
+<p align="center"><em>Sophomore Computer Science student at the College of Staten Island passionate about AI, cryptography, and blockchain.</em></p>
 
 ---
 
