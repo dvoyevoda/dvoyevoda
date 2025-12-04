@@ -13,7 +13,7 @@
 - 🔬 **Research:** Visual Cryptography & Image Encryption under Dr. Sos Agaian  
 - 🤖 **AI:** Built MeetMate, an AI-powered meeting summarizer using natural language processing    
 - 🔗 **Blockchain:** Developed a decentralized voting system dApp  
-- 💻 **Languages & Tools:** C++, Python, JavaScript, Swift, Git, Docker
+- 💻 **Languages & Tools:** C++, Python, JavaScript, Git, Docker
 
 ---
 
@@ -31,7 +31,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40"/>
 </p>
