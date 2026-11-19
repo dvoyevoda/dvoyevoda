@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Education:** B.S. in Computer Science, Mathematics minor, Verrazzano Honors Program · Expected May 2028
+- 🎓 **Education:** B.S. in Computer Science, Mathematics minor, Verrazzano Honors Program · Expected June 2028
 - 💼 **Industry:** Former Technology Consulting Analyst Intern at Accenture and AI Software Engineer Intern at WhyMaker
 - 🔬 **Research:** Multi-agent security, prompt-injection defenses, and visual cryptography through the CUNY Research Scholars Program
 - 🤖 **Currently:** Break Through Tech AI Fellow at Cornell Tech, developing the Discussion Intelligence Toolkit with a 7-person team
